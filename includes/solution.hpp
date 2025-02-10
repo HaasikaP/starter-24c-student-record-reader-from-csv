@@ -2,6 +2,7 @@
 #define SOLUTION_HPP
 
 #include <fstream>
+#include <string>
 
 #include "student.hpp"
 
